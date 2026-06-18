@@ -19,7 +19,7 @@
 
 ---
 
-## `whoami`
+<!-- ## `whoami`
 
 ```python
 profile = {
@@ -35,7 +35,7 @@ profile = {
 > My work sits at the intersection of **LLM engineering**, **semantic retrieval**, and **applied ML**.
 
 ---
-
+ -->
 ## 🧰 Tech Stack
 
 <details open>
@@ -65,7 +65,7 @@ profile = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>🛠️ Tools & Platforms (learning & using)</b></summary>
 <br/>
 
@@ -77,10 +77,11 @@ profile = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </details>
+
 ---
 
-```
-## 🚀 Featured Projects
+
+<!-- ## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -134,11 +135,10 @@ _What it does and why it matters._
 </tr>
 </table>
 
----
+--- -->
 
-```
 
-## 📊 GitHub Activity
+<!-- ## 📊 GitHub Activity
 
 <div align="center">
 
@@ -149,13 +149,12 @@ _What it does and why it matters._
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=twilightt1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!-- Optional: contribution snake animation (requires GitHub Actions setup) -->
 <img src="https://raw.githubusercontent.com/twilightt1/twilightt1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 ---
-
+ -->
 ## 🧪 My AI Engineering Principles
 
 ```
