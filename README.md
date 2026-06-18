@@ -1,46 +1,49 @@
-<h1 align="center">Hi, I'm Tam Pham 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>CS Student · AI/ML Engineering · RAG Systems · Backend Engineering</b>
-</p>
+# Hi, I'm Tam Pham 👋
 
-<p align="center">
-  I build production-style AI applications: retrieval-augmented generation, LLM workflows,
-  evaluation pipelines, streaming APIs, and full-stack AI products.
-</p>
+### CS Student · AI/ML Engineering · RAG Systems · Backend Engineering
 
-<p align="center">
-  <a href="https://tamus.dev">Portfolio</a> ·
-  <a href="https://github.com/twilightt1">GitHub</a> ·
-  <a href="mailto:your.email@example.com">Email</a>
-</p>
+I build production-style AI applications with clean backend architecture, retrieval systems, LLM workflows, evaluation pipelines, and full-stack product thinking.
+
+<a href="https://tamus.dev">
+  <img src="https://img.shields.io/badge/Portfolio-tamus.dev-black?style=for-the-badge&logo=vercel" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/twilightt1">
+  <img src="https://img.shields.io/badge/GitHub-twilightt1-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
-## About me
+## About Me
 
-I'm a Computer Science student focused on becoming an **AI/ML Engineer** with strong backend fundamentals.
+I'm a Computer Science student focused on becoming an **AI/ML Engineer** with strong backend and product engineering fundamentals.
 
-My current work is centered around:
+My work focuses on building AI systems that go beyond simple demos:
 
 - Retrieval-Augmented Generation systems
 - LLM application architecture
 - Hybrid search, reranking, and evaluation
-- FastAPI / Python backend engineering
+- FastAPI backend services
 - Full-stack AI product development
 - Production-style documentation, testing, and deployment
 
-I care about building AI systems that are not just demos, but are testable, observable, and explainable.
+I care about building AI software that is **reliable, explainable, testable, and useful**.
 
 ---
 
-## Featured projects
+## Featured Projects
 
 ### MindLayer — Personal AI Second Brain / RAG Backend
 
-Production-style backend for a self-hosted AI second brain. It ingests documents and notes, builds a retrieval layer, and streams cited answers through an agent workflow.
+A production-style backend for a self-hosted AI second brain. It ingests notes and documents, retrieves relevant knowledge, and streams cited answers through an agent workflow.
 
-**Highlights**
+**Key engineering work**
 
 - FastAPI backend with JWT/OAuth authentication
 - PostgreSQL, Redis, Celery, MinIO, and ChromaDB infrastructure
@@ -50,32 +53,36 @@ Production-style backend for a self-hosted AI second brain. It ingests documents
 - Token-level Server-Sent Events streaming
 - Evaluation harness, diagnostics, Docker deployment, and security checks
 
-**Tech:** Python, FastAPI, LangGraph, PostgreSQL, Redis, Celery, ChromaDB, Docker
+**Tech stack**
+
+`Python` · `FastAPI` · `LangGraph` · `PostgreSQL` · `Redis` · `Celery` · `ChromaDB` · `Docker`
 
 ---
 
 ### JobFit AI — AI Job Match & Resume Optimizer
 
-AI/ML engineering project that compares resumes with job descriptions, extracts structured information, calculates explainable match scores, and suggests truth-guarded resume improvements.
+An AI-powered job matching and resume optimization system that compares resumes with job descriptions, extracts structured information, scores candidate-job fit, and suggests grounded resume improvements.
 
-**Highlights**
+**Key engineering work**
 
 - Schema-first LLM extraction
 - Embedding-based semantic matching
-- Explainable scoring with evidence rows
+- Explainable match scoring
 - Truth guard for unsupported resume claims
 - Evaluation harness for extraction, matching, and hallucination checks
 - Full-stack architecture with frontend, backend, docs, and Docker infra
 
-**Tech:** Python, FastAPI, TypeScript, Next.js, PostgreSQL, pgvector, Docker
+**Tech stack**
+
+`Python` · `FastAPI` · `TypeScript` · `Next.js` · `PostgreSQL` · `pgvector` · `Docker`
 
 ---
 
 ### MindLayer UI — RAG Frontend
 
-Modern frontend for a RAG system with real-time AI response streaming, document management, authentication, and dashboard workflows.
+A modern frontend for a RAG assistant with real-time AI response streaming, document upload, authentication, and admin workflows.
 
-**Highlights**
+**Key engineering work**
 
 - Next.js App Router frontend
 - Real-time SSE streaming chat
@@ -84,55 +91,65 @@ Modern frontend for a RAG system with real-time AI response streaming, document 
 - Admin dashboard and user management
 - CI/CD setup with linting, type-checking, and builds
 
-**Tech:** TypeScript, Next.js, Tailwind CSS, shadcn/ui, Zustand, Axios
+**Tech stack**
+
+`TypeScript` · `Next.js` · `Tailwind CSS` · `shadcn/ui` · `Zustand` · `Axios`
 
 ---
 
-## Technical stack
+## Technical Stack
 
-**Languages**  
-Python · TypeScript · Java · Go · SQL
+### Languages
 
-**AI/ML Engineering**  
-RAG · LLM workflows · embeddings · hybrid search · reranking · evaluation · prompt versioning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,sql" />
+</p>
 
-**Backend**  
-FastAPI · SQLAlchemy · PostgreSQL · Redis · Celery · REST APIs · SSE streaming
+### AI / ML Engineering
 
-**Frontend**  
-Next.js · React · Tailwind CSS · shadcn/ui · Zustand
+`RAG` · `LLM Workflows` · `Embeddings` · `Hybrid Search` · `Reranking` · `Evaluation` · `Prompt Versioning`
 
-**Infrastructure**  
-Docker · Docker Compose · GitHub Actions · MinIO · ChromaDB
+### Backend
 
-**Quality**  
-Pytest · Ruff · Vitest · Playwright · CI-safe testing · technical documentation
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,githubactions" />
+</p>
+
+`FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Redis` · `Celery` · `REST APIs` · `SSE Streaming`
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
+</p>
+
+`Next.js` · `React` · `Tailwind CSS` · `shadcn/ui` · `Zustand`
+
+### Infrastructure & Quality
+
+`Docker` · `Docker Compose` · `GitHub Actions` · `MinIO` · `ChromaDB` · `Pytest` · `Ruff` · `Vitest` · `Playwright`
 
 ---
 
-## What I'm building toward
+## What I'm Building Toward
 
 I'm preparing for roles such as:
 
 - AI/ML Engineer Intern
 - Applied AI Engineer Intern
 - Machine Learning Engineer Intern
-- Backend Engineer Intern, AI products
+- Backend Engineer Intern, AI Products
 - Full-stack AI Engineer Intern
 
 My goal is to build AI systems that combine **model capability**, **software reliability**, and **clear product value**.
 
 ---
 
-## Current focus
+## Current Focus
 
-- Improving RAG evaluation and retrieval quality
-- Building more end-to-end AI portfolio projects
-- Strengthening ML fundamentals and system design
-- Shipping clean demos with docs, tests, and deployment guides
-
----
-
-<p align="center">
-  <i>Open to AI/ML engineering internships, research-minded product work, and backend AI projects.</i>
-</p>
+```txt
+Improving RAG quality
+Building evaluation pipelines
+Shipping full-stack AI products
+Strengthening ML fundamentals
+Writing cleaner technical documentation
