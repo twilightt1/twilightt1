@@ -23,12 +23,11 @@
 
 ```python
 profile = {
-    "name":     "YOUR_NAME",
+    "name":     "Tamus",
     "role":     "AI / ML Engineer",
-    "focus":    ["LLM Applications", "RAG Pipelines", "Semantic Search", "MLOps"],
+    "focus":    ["LLM", "RAG Pipelines", "MLOps"],
     "building": "AI Job Match & Resume Optimizer — multilingual semantic matching at scale",
-    "values":   ["Explainability", "Production-readiness", "Token efficiency"],
-    "language": ["Python 🐍", "English 🇬🇧", "Tiếng Việt 🇻🇳"],
+    "values":   ["Explainability", "Production-readiness", "Token efficiency"]
 }
 ```
 
