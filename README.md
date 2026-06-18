@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════
      GITHUB PROFILE README — AI/ML ENGINEER
-     Replace YOUR_USERNAME, YOUR_NAME, links, and project details
+     Replace twilightt1, YOUR_NAME, links, and project details
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -10,10 +10,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamus/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=githubpages&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=githubpages&logoColor=white)](tamus.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:working@tamus.dev)
 
 </div>
 
@@ -39,38 +39,48 @@ profile = {
 
 ## 🧰 Tech Stack
 
-**Large Language Models & Embeddings**
-
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-191919?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
-![Sentence Transformers](https://img.shields.io/badge/sentence--transformers-orange?style=flat-square)
-
-`text-embedding-3-small` · `bge-m3` · `nomic-embed` · custom fine-tuned adapters
-
-**Vector Search & Data**
-
-![FAISS](https://img.shields.io/badge/FAISS-1565C0?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Backend & APIs**
+<details open>
+<summary><b>🧠 ML / AI — Core Focus</b></summary>
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📊 Data & Visualization</b></summary>
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Platforms (learning & using)</b></summary>
+<br/>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-
-**Frontend & Deployment**
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HuggingFace Spaces](https://img.shields.io/badge/🤗%20Spaces-FFD21E?style=flat-square)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+</details>
 ---
 
+```
 ## 🚀 Featured Projects
 
 <table>
@@ -127,19 +137,21 @@ _What it does and why it matters._
 
 ---
 
+```
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=twilightt1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilightt1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=twilightt1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- Optional: contribution snake animation (requires GitHub Actions setup) -->
-<!-- <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/twilightt1/twilightt1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -160,12 +172,12 @@ _What it does and why it matters._
 ## 📬 Let's Connect
 
 I'm open to **collaborations**, **research discussions**, and **full-time AI/ML roles**.  
-Best way to reach me: drop a message on [LinkedIn](#) or open an issue on a project you find interesting.
+Best way to reach me: drop a message on [LinkedIn](https://www.linkedin.com/in/tamus/) or open an issue on a project you find interesting.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamus/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:working@tamus.dev)
 
 <br/>
 
